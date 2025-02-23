@@ -1,7 +1,7 @@
-Contact Manager
+#Contact Manager
 A simple Contact Manager application built in Python, featuring a graphical interface using Tkinter and SQLite database integration.
 
-Features
+#Features
 Add Contacts: Easily add new contacts with details like name, phone number, email, etc.
 View Contacts: Display all saved contacts with their information.
 Search Functionality: Quickly find contacts by name or other attributes.
@@ -11,8 +11,10 @@ User-Friendly Interface: Intuitive design using Tkinter for seamless navigation 
 Requirements
 Ensure you have Python 3.x installed. Dependencies such as Tkinter are typically included with standard Python installations.
 
-Contributing
+![{E730A520-BF94-4EF9-B894-88813250918C}](https://github.com/user-attachments/assets/d029b242-37d3-4d77-bc34-a57f5a4c722d)
+
+#Contributing
 Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request.
 
-License
+#License
 This project is licensed under the MIT License - see the LICENSE file for details.
